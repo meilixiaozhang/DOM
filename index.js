@@ -6,3 +6,4 @@ document.querySelector("a").style.color = "green";
 document.querySelector(".btn").innerHTML = "Do Not Click";
 document.querySelector(".list a").innerHTML = "Gooooogle";
 document.querySelector(".btn").style.backgroundColor = "yellow";
+document.querySelector("h1").classList.add("huge");

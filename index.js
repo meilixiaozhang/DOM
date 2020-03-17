@@ -7,3 +7,5 @@ document.querySelector(".btn").innerHTML = "Do Not Click";
 document.querySelector(".list a").innerHTML = "Gooooogle";
 document.querySelector(".btn").style.backgroundColor = "yellow";
 document.querySelector("h1").classList.add("huge");
+//document.quertSelector("a").getAttribute("href");
+document.querySelector("a").setAttribute("href", "https://www.bing.com");
